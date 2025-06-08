@@ -18,7 +18,7 @@ import streamlit as st
 #####################################################################
 # CONFIG
 #####################################################################
-CSV_PATH = "SP25_UIUC_courses.csv"
+CSV_PATH = "courses_clean.csv"
 TIME_STEP = 30  # minutes per row
 DAY_ORDER = ["M", "T", "W", "R", "F", "S", "U"]
 SLOT_START = 7  # 07:00
