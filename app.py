@@ -86,7 +86,7 @@ st.set_page_config(
     page_icon="random"
 )
 
-st.title("📅 UIUC Room Schedule Viewer")
+st.title("UIUC Room Schedule Viewer")
 
 df = load_courses(CSV_PATH)
 
